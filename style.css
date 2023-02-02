@@ -1,0 +1,114 @@
+form{
+ 
+    text-align: center;
+    width: 30%;
+    margin: 100px auto;
+    padding: 30px;
+    background-color: rgb(39, 124, 39);
+    border: 10px solid #a88f32;
+    border-radius: 10px;
+    color: white;
+}
+
+#admin-btn{
+    
+    background-color:#007AF3;
+    color: white;
+    padding: 10px;
+    border-radius: 0.3em;
+    margin: 10px;
+}
+
+#admin-btn:hover{
+    
+    color:#007AF3;
+    background-color: white;
+    padding: 10px;
+    border-color: #007AF3;;
+    border-radius: 0.3em;
+    margin: 10px;
+}
+
+#lecturer-btn{
+    
+    background-color:#007AF3;
+    color: white;
+    padding: 10px;
+    border-radius: 0.3em;
+    margin: 10px;
+}
+
+#lecturer-btn:hover{
+   
+    color:#007AF3;
+    background-color: white;
+    padding: 10px;
+    border-color: #007AF3;;
+    border-radius: 0.3em;
+    margin: 10px;
+}
+#student-btn{
+ 
+    background-color:#007AF3;
+    color: white;
+    padding: 10px;
+    border-radius: 0.3em;
+    margin: 10px;
+}
+
+#student-btn:hover{
+
+    color:#007AF3;
+    background-color: white;
+    padding: 10px;
+    border-color: #007AF3;;
+    border-radius: 0.3em;
+    margin: 10px;
+}
+
+#submit{
+ 
+    background-color:#a88f32;
+    color: white;
+    padding: 10px;
+    border-radius: 0.3em;
+    margin: 10px;
+}
+
+#submit:hover{ 
+
+    background-color:white;
+    color: #a88f32;
+    padding: 10px;
+    border-color: #a88f32;
+    border-radius: 0.3em;
+    margin: 10px;
+}
+#sidebar{
+    background-color: rgb(39, 124, 39);
+    height: 100%;
+    position: fixed;
+    border: 10px solid #a88f32;
+    border-radius: 5px;
+}
+#sidebar, li{
+    list-style: none;
+    padding: 1em;
+    padding-left: 0.1em;
+    margin: 10px;
+}
+#sidebar, a{
+    
+    color: white;
+    text-decoration: none;
+}
+#sidebar, a:hover{
+   
+    color: white;
+    text-decoration: none;
+}
+
+#welcome_admin{
+    margin-left: 20%;
+    margin-top: 30px;
+}
